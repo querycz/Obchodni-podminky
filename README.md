@@ -1,0 +1,2 @@
+# obchodni-podminky
+Obchodní podmínky
