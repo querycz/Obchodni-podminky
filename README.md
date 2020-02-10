@@ -1,4 +1,4 @@
-# Obchodní podmínky
+# Obchodní podmínky 🧾
 
 ## Objednávka
 Před započetím prací je požadována řádná objednávka vystavená na základě předběžné kalkulace. Objednávka musí obsahovat identifikaci odběratele (včetně IČO a DIČ) a předmět zakázky.
