@@ -16,9 +16,9 @@ Předáním díla se rozumí zprovozněním díla na serveru Objednatele, Zhotov
 Vlastnická práva vztahující se k dílu náleží výhradně Objednateli, který je tak jediným vlastníkem díla, a to za předpokladu, že Objednatel uhradí Zhotoviteli odsouhlasenou odměnu za řádné provedení předmětného díla.
 
 ## Kódovné
-Pokud se Objednatel v průběhu realizace rozhodne z jakéhokoliv důvodu odstoupit od spolupráce, hradí Zhotoviteli tzv. kódovné. Kódovné se hradí ze započaté fáze realizačního procesu.
+Pokud se Objednatel v průběhu realizace rozhodne z jakéhokoliv důvodu odstoupit od spolupráce, hradí Zhotoviteli tzv. kódovné. Kódovné se hradí z každého započatého milníku realizačního procesu.
 
-U dokončených, Objednatelem odsouhlasených fází, se hradí plná cena. Výše kódovného činí 50 % z kalkulované ceny. Zaplacením kódovného nemá Objednatel právo s dílem nakládat.
+Výše kódovného u ropzracovaných milníků činí 50 % z kalkulované ceny. Zaplacením kódovného nemá Objednatel právo s dílem nakládat. U dokončených milníků hradí Objednatel plnou cenu a má právo s dílem nakládat.
 
 ## Záloha
 U projektů v celkové hodnotě 100 000 Kč a víceje požadována 50% záloha 1. položky nabídky.
