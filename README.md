@@ -7,7 +7,7 @@ Před započetím prací je požadována řádná objednávka vystavená na zák
 Časový harmonogram je orientační a začíná běžet od obdržení objednávky a všech podkladů.
 
 ## Smlouva o dílo
-U projektů v celkové hodnotě 100 000 Kč a více je požadováno sepsání Smlouvy o dílo podle § 2586 a násl. zákona č. 89/2012 Sb., občanského zákoníku a ve smyslu příslušných ustanovení autorského zákona.
+U projektů v celkové hodnotě 300 000 Kč a více je požadováno sepsání Smlouvy o dílo podle § 2586 a násl. zákona č. 89/2012 Sb., občanského zákoníku a ve smyslu příslušných ustanovení autorského zákona.
 
 ## Předání díla
 Předáním díla se rozumí zprovozněním díla na serveru Objednatele, Zhotovitele či předáním kompletních zdrojových souborů.
